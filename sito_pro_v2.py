@@ -19,7 +19,7 @@ st.markdown(
 )
 
 # --- TITOLO E BRANDING ---
-st.title("📈 Simulatore Professionale")
+st.title("📈 Simulatore Professionale - versione demo di prova")
 
 # --- STATO DELLA SESSIONE ---
 if 'anni_100' not in st.session_state:
